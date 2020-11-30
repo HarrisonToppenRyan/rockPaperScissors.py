@@ -1,0 +1,4 @@
+This is a rock, paper, & sicssors game that you play aginst the computer. 
+Enter in best out of how many games that you want to play where First one to reach your input in points will win the game.
+I've shortened the names "Rock, Paper, and Scissors" to 'r, p, and s' for the sake of easier playing. 
+Good Luck!
